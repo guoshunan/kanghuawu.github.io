@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Spring, Django, AWS, ReactJS, MongoDB, MySQL, Kubernetes, MapReduce/Spark
-percentage:  90,     70,  80,      70,      80,    80,         80,              70
+aspects: Spring, Django, AWS, ReactJS, MongoDB, MySQL, Kubernetes, Hadoop/Spark
+percentage:  90,     80,  80,      70,      80,    90,         70,           80
