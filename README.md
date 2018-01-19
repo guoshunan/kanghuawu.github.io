@@ -1,5 +1,5 @@
 # Website for My Portfolio
 
 ### Credits to:
-* [jarrekk](https://github.com/jarrekk/Jalpc#3-steps-to-setup-this-theme-at-your-website)
+* [jarrekk](https://github.com/jarrekk/Jalpc)
 * [Jekyll](http://jekyllrb.com/)
